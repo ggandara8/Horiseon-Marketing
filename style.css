@@ -8,23 +8,23 @@ body {
     background-color: #d9dcd6;
 }
 
-.container-1 {
+.container {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-.container-1 h1 {
+.container h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-.container-1 h1 .seo {
+.container h1 .seo {
     color: #d9dcd6;
 }
 
-.container-1 nav {
+.container nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +32,11 @@ body {
     font-size: 20px;
 }
 
-.container-1 nav ul {
+.container nav ul {
     list-style-type: none;
 }
 
-.container-1 nav ul li {
+.container nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
